@@ -22,6 +22,7 @@ namespace SharePoint.OData.RestApi
         public string DecisionId { get; set; }
         public string PartyId { get; set; }
         public string OwnerId { get; set; }
+        public string OwnerId123 { get; set; }
         public string DocumentStatus { get; set; }
     }
 }
